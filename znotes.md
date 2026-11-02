@@ -1,0 +1,1 @@
+"Pure semantic retrieval underperformed on this document's repetitive Module:N structure; metadata-based filtering was added to guarantee correct retrieval when a module number is explicitly referenced."

@@ -1,0 +1,21 @@
+venv/
+.env
+__pycache__/
+# Generated and local data
+chroma_db/
+uploads/
+*.pyc
+
+# Python environments
+.venv/
+venv/
+__pycache__/
+
+# Frontend dependencies and builds
+frontend/node_modules/
+frontend/dist/
+
+# Environment secrets
+.env
+.env.*
+!.env.example
